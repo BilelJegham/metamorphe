@@ -1,0 +1,24 @@
+{
+  "name": "metamorphe",
+  "version": "0.0.0",
+  "description": "Transform project using templates using a simple CLI and git",
+  "bin": "index.js",
+  "scripts": {
+    "test": "eslint . --no-fix",
+    "lint": "eslint . --fix"
+  },
+  "keywords": [
+    "templates",
+    "utils",
+    "cli"
+  ],
+  "author": "BilelJegham",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.44.0"
+  },
+  "dependencies": {
+    "shelljs": "^0.8.5",
+    "yargs": "^17.7.2"
+  }
+}
