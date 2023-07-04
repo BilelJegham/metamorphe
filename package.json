@@ -1,6 +1,6 @@
 {
   "name": "metamorphe",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Transform project using templates using a simple CLI and git",
   "bin": "index.js",
   "scripts": {
