@@ -7,6 +7,10 @@
     "test": "eslint . --no-fix",
     "lint": "eslint . --fix"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BilelJegham/metamorphe"
+  },
   "keywords": [
     "templates",
     "utils",

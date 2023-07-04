@@ -4,7 +4,7 @@ const shell = require('shelljs')
 const yargs = require('yargs')
 
 function main () {
-  return yargs.scriptName('metapmorphe')
+  return yargs.scriptName('metamorphe')
     .usage('$0 <cmd> [args]')
     .command(
       'transform <template>',
